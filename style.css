@@ -3,17 +3,18 @@ body{
     color: black;
 }
 
-#about{
+.info{
     font-size: 18px;
     border-width: 6px;
     border-color: black;
     border-style: dotted;
 }
 
-#image1{
+.image{
     width: 350px;
     height: 300px;
     border-width: 12px;
     border-color: black;
     border-style:dashed;
 }
+
